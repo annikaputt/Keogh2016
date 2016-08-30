@@ -1,0 +1,3 @@
+Data_CSV Notes:
+
+These .csv files have been saved directly from the Keogh_Summer2016_EF_Aputt.xlsx file for upload into R. If the excel file is edited and the data are changed, a new copy of the .csv files would need to be saved. 
